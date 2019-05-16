@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Natural-User-Interface-WebApplication/static/css/main.36280e71.chunk.css",
-    "main.js": "/Natural-User-Interface-WebApplication/static/js/main.bb901acd.chunk.js",
-    "main.js.map": "/Natural-User-Interface-WebApplication/static/js/main.bb901acd.chunk.js.map",
+    "main.css": "/Natural-User-Interface-WebApplication/static/css/main.17b64163.chunk.css",
+    "main.js": "/Natural-User-Interface-WebApplication/static/js/main.04adb192.chunk.js",
+    "main.js.map": "/Natural-User-Interface-WebApplication/static/js/main.04adb192.chunk.js.map",
     "runtime~main.js": "/Natural-User-Interface-WebApplication/static/js/runtime~main.522b3f74.js",
     "runtime~main.js.map": "/Natural-User-Interface-WebApplication/static/js/runtime~main.522b3f74.js.map",
     "static/css/2.9e63dcda.chunk.css": "/Natural-User-Interface-WebApplication/static/css/2.9e63dcda.chunk.css",
-    "static/js/2.d9833e42.chunk.js": "/Natural-User-Interface-WebApplication/static/js/2.d9833e42.chunk.js",
-    "static/js/2.d9833e42.chunk.js.map": "/Natural-User-Interface-WebApplication/static/js/2.d9833e42.chunk.js.map",
+    "static/js/2.20b0e735.chunk.js": "/Natural-User-Interface-WebApplication/static/js/2.20b0e735.chunk.js",
+    "static/js/2.20b0e735.chunk.js.map": "/Natural-User-Interface-WebApplication/static/js/2.20b0e735.chunk.js.map",
     "index.html": "/Natural-User-Interface-WebApplication/index.html",
-    "precache-manifest.ccdb220b551ff4e5342801c26038ef12.js": "/Natural-User-Interface-WebApplication/precache-manifest.ccdb220b551ff4e5342801c26038ef12.js",
+    "precache-manifest.01fb96e4a1c2875d562a93e83daa7469.js": "/Natural-User-Interface-WebApplication/precache-manifest.01fb96e4a1c2875d562a93e83daa7469.js",
     "service-worker.js": "/Natural-User-Interface-WebApplication/service-worker.js",
     "static/css/2.9e63dcda.chunk.css.map": "/Natural-User-Interface-WebApplication/static/css/2.9e63dcda.chunk.css.map",
-    "static/css/main.36280e71.chunk.css.map": "/Natural-User-Interface-WebApplication/static/css/main.36280e71.chunk.css.map",
+    "static/css/main.17b64163.chunk.css.map": "/Natural-User-Interface-WebApplication/static/css/main.17b64163.chunk.css.map",
     "static/media/nucleo-icons.css": "/Natural-User-Interface-WebApplication/static/media/nucleo.f0b489a5.woff",
     "static/media/react-logo.png": "/Natural-User-Interface-WebApplication/static/media/react-logo.6fb21bb8.png"
   }
