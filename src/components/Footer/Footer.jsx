@@ -13,20 +13,20 @@ class Footer extends React.Component {
         <Container fluid={this.props.fluid ? true : false}>
           <ul className="nav">
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="https://pieterlems.github.io/site">
                 Pieter Lems
               </a>
             </li>{" "}
             <li className="nav-item">
               <a
                 className="nav-link"
-                href=""
+                href="https://github.com/PieterLems"
               >
-                About Me
+                My Github
               </a>
             </li>{" "}
             <li className="nav-item">
-              <a className="nav-link" href="">
+              <a className="nav-link" href="https://pieterlems.github.io/site">
                 Website
               </a>
             </li>
