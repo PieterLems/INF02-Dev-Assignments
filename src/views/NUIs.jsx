@@ -24,7 +24,7 @@ class Nuis extends React.Component {
     super(props);
     this.state = {
       verticalTabsIcons: "brain",
-      openedCollapses: ["collapseOne"]
+      openedCollapses: [""]
     };
   }
   // with this function we create an array with the opened collapses
@@ -307,6 +307,7 @@ class Nuis extends React.Component {
                                 )}
                               >
                                 <CardBody>
+                                  
                                 Sed tempor lorem neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc molestie, diam eu hendrerit laoreet, nibh ante luctus massa, ut consequat lacus neque sed sapien. Nullam facilisis tincidunt ex et condimentum. Suspendisse porttitor urna lectus, vel tristique elit gravida sit amet. Vestibulum luctus semper vehicula. Donec porta eget tellus sed semper. Fusce sit amet risus sapien. Sed a fringilla felis, eu cursus arcu. Praesent ac lorem leo. Fusce at libero lorem. Pellentesque commodo quam et lorem fringilla, nec varius justo pulvinar. Mauris quis justo ligula. Sed tincidunt neque ut malesuada consequat. Suspendisse dapibus condimentum scelerisque. Phasellus vehicula felis enim, non fermentum odio lobortis quis.
                       </CardBody>
                               </Collapse>

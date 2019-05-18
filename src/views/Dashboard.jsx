@@ -3,6 +3,8 @@ import React from "react";
 
 // reactstrap components
 import {
+  Card,
+  CardText,
   CardBody,
   Row,
   Col
@@ -18,9 +20,26 @@ class Dashboard extends React.Component {
           <CardBody>
             <Row>
               <Col md="6" lg="3">
-                <h3>12-03-2019, Rotterdam</h3>
-                   <Col>
-                        <h4>Project Members:</h4>
+              <Card className="card-user">
+                <CardBody>
+                  <CardText />
+                  <div className="author">
+                    <div className="block block-one" />
+                    <div className="block block-two" />
+                    <div className="block block-three" />
+                    <div className="block block-four" />
+                    <a href="#pablo" onClick={e => e.preventDefault()}>
+                      <img
+                        alt="..."
+                        className="avatar"
+                        src={require("assets/img/HROlogo.png")}
+                      />
+                      <h5 className="title">12-03-2019</h5>
+                    </a>
+                    <p className="description">Rotterdam</p>
+                  </div>
+                  <div className="card-description">
+                  <h4>Project Members:</h4>
                         <ul>
                           <li>Pieter Lems</li>
                           <li className="list-unstyled">
@@ -58,10 +77,13 @@ class Dashboard extends React.Component {
                             </ul>
                           </li>
                         </ul>
-                      </Col>
+                  </div>
+                </CardBody>
+              </Card>
+              
               </Col>
               <Col className="ml-auto mr-auto" md="6" lg="7">
-                <h3 className="mt-5">Introduction</h3>
+                <h3>Introduction</h3>
                 <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id elementum nulla. Proin sed nibh at neque convallis interdum at non tortor. Vivamus ultrices odio ac quam lacinia sodales. In hac habitasse platea dictumst. Etiam fringilla, quam in semper varius, urna dui rhoncus mi, quis sollicitudin justo elit at lectus. Nam in mi mattis nisi ullamcorper finibus eu et ipsum. Sed non augue neque. Aenean consequat porta urna id sagittis. Fusce sed quam quam. Quisque viverra quam quam. Sed vestibulum mattis libero, sed dignissim odio fermentum non.
                 </p>
