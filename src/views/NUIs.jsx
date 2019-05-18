@@ -53,9 +53,9 @@ class Nuis extends React.Component {
   render() {
     return (
       <>
-        <div className="content">
+        <div className="content nui">
           <Col md="12">
-            <Card>
+            <Card className="nui">
               <CardHeader>
                 <CardTitle tag="h3">Natural User Interface's</CardTitle>
               </CardHeader>
@@ -179,6 +179,12 @@ class Nuis extends React.Component {
                       <TabPane tabId="brain">
                         <Card>
                           <CardHeader>
+                          <img
+                        alt="..."
+                        className="nui-indicator-brain"
+                        src={require("assets/img/brain.png")}
+                      />
+
                             <CardTitle tag="h3">NUI: Brain</CardTitle>
                             <p>
                             Sed ac viverra augue. Etiam sem ante, rhoncus sed lacus eu, sagittis aliquam sapien. Vivamus quis libero eros. Phasellus a commodo urna, id tincidunt massa. Morbi malesuada lectus orci, at condimentum massa congue sed. Suspendisse imperdiet odio metus, a porta purus ullamcorper non. Nulla sit amet turpis vitae turpis accumsan aliquet ac non purus. Fusce accumsan venenatis metus sed pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam lacinia justo metus, id sodales mauris lacinia vel. Donec semper tincidunt libero eu tincidunt. Nam non maximus arcu. Donec feugiat tempor neque, eget bibendum erat volutpat id.
@@ -274,6 +280,11 @@ class Nuis extends React.Component {
                       <TabPane tabId="Touch">
                         <Card>
                           <CardHeader>
+                          <img
+                        alt="..."
+                        className="nui-indicator-touch"
+                        src={require("assets/img/touch.png")}
+                      />
                             <CardTitle tag="h3">NUI: Touch</CardTitle>
                             <p>
                             Sed ac viverra augue. Etiam sem ante, rhoncus sed lacus eu, sagittis aliquam sapien. Vivamus quis libero eros. Phasellus a commodo urna, id tincidunt massa. Morbi malesuada lectus orci, at condimentum massa congue sed. Suspendisse imperdiet odio metus, a porta purus ullamcorper non. Nulla sit amet turpis vitae turpis accumsan aliquet ac non purus. Fusce accumsan venenatis metus sed pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam lacinia justo metus, id sodales mauris lacinia vel. Donec semper tincidunt libero eu tincidunt. Nam non maximus arcu. Donec feugiat tempor neque, eget bibendum erat volutpat id.

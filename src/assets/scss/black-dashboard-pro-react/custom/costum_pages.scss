@@ -1,0 +1,39 @@
+//HOME PAGE
+.intro-logo {
+    width: 224px;
+    height: 224px;
+    margin-bottom: 20px;
+    border-radius: 100%;
+    background-color: $transparent-bg;
+    float: right;
+  }
+
+  .intro-img {
+    width: 244px;
+    height: 224px;
+    padding-left: 10px;
+    margin-top:30px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+    background-color: $transparent-bg;
+    float: right;
+  }
+
+//NUI PAGE
+
+.nui-indicator-brain {
+    width: 274px;
+    height: 224px;
+    border: 5px solid lighten($black, 5%);
+    background-color: $transparent-bg;
+    float: right;
+  }
+  .nui-indicator-touch{
+    width: 224px;
+    height: 224px;
+    border: 5px solid lighten($black, 5%);
+    background-color: $transparent-bg;
+    float: right;
+  }
+
