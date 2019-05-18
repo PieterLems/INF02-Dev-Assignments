@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c984af307038fe95d8e793e924306e27",
+    "revision": "da3939ea119e446da306f86a23d5a227",
     "url": "/Natural-User-Interface-WebApplication/index.html"
   },
   {
-    "revision": "7b41597fec2a31d87aa4",
+    "revision": "601eb9f39cbaa6d37e05",
     "url": "/Natural-User-Interface-WebApplication/static/css/2.9e63dcda.chunk.css"
   },
   {
-    "revision": "612d89b4c07a9e9cd31c",
-    "url": "/Natural-User-Interface-WebApplication/static/css/main.17b64163.chunk.css"
+    "revision": "898e008e6ae391a1fac7",
+    "url": "/Natural-User-Interface-WebApplication/static/css/main.87c171c4.chunk.css"
   },
   {
-    "revision": "7b41597fec2a31d87aa4",
-    "url": "/Natural-User-Interface-WebApplication/static/js/2.20b0e735.chunk.js"
+    "revision": "601eb9f39cbaa6d37e05",
+    "url": "/Natural-User-Interface-WebApplication/static/js/2.9a4c11af.chunk.js"
   },
   {
-    "revision": "612d89b4c07a9e9cd31c",
-    "url": "/Natural-User-Interface-WebApplication/static/js/main.04adb192.chunk.js"
+    "revision": "898e008e6ae391a1fac7",
+    "url": "/Natural-User-Interface-WebApplication/static/js/main.4e340ea8.chunk.js"
   },
   {
     "revision": "6965ae7a929a0f9fdb07",
     "url": "/Natural-User-Interface-WebApplication/static/js/runtime~main.522b3f74.js"
+  },
+  {
+    "revision": "52bee32fccf918cf15ebc772943677a3",
+    "url": "/Natural-User-Interface-WebApplication/static/media/HROlogo.52bee32f.png"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
