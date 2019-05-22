@@ -16,7 +16,7 @@ const routes = [
   },
   {
     path: "/research",
-    name: "Research",
+    name: "Onderzoek",
     rtlName: "لوحة القيادة",
     icon: "tim-icons icon-zoom-split",
     component: Research,
@@ -32,7 +32,7 @@ const routes = [
   },
   {
     path: "/conclusion",
-    name: "Conclusion",
+    name: "Conclusie",
     rtlName: "لوحة القيادة",
     icon: "tim-icons icon-check-2",
     component: Conclusion,
@@ -40,7 +40,7 @@ const routes = [
   },
   {
     path: "/sources",
-    name: "Sources",
+    name: "Bronnen",
     rtlName: "لوحة القيادة",
     icon: "tim-icons icon-single-copy-04",
     component: Sources,

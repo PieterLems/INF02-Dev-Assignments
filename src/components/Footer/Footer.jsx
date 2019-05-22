@@ -32,7 +32,7 @@ class Footer extends React.Component {
             </li>
           </ul>
           <div className="copyright">
-            © {new Date().getFullYear()} by Pieter Lems
+            © {new Date().getFullYear()} designed and developed by Pieter Lems
           </div>
         </Container>
       </footer>

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71f2a4d89de067c5e72a936bc94e31b2",
+    "revision": "d046e3f1a68d7b3cadf07e5cc60e0e0b",
     "url": "/Natural-User-Interface-WebApplication/index.html"
   },
   {
-    "revision": "d2d755354c8ee4db43ee",
+    "revision": "7ffe669cc635b1b64f17",
     "url": "/Natural-User-Interface-WebApplication/static/css/2.9e63dcda.chunk.css"
   },
   {
-    "revision": "6f88f811a619ffbe6e62",
-    "url": "/Natural-User-Interface-WebApplication/static/css/main.87c171c4.chunk.css"
+    "revision": "2bca19466a2dcf0bc996",
+    "url": "/Natural-User-Interface-WebApplication/static/css/main.96b8f3b4.chunk.css"
   },
   {
-    "revision": "d2d755354c8ee4db43ee",
-    "url": "/Natural-User-Interface-WebApplication/static/js/2.f6e2452c.chunk.js"
+    "revision": "7ffe669cc635b1b64f17",
+    "url": "/Natural-User-Interface-WebApplication/static/js/2.1cb26e77.chunk.js"
   },
   {
-    "revision": "6f88f811a619ffbe6e62",
-    "url": "/Natural-User-Interface-WebApplication/static/js/main.4611c923.chunk.js"
+    "revision": "2bca19466a2dcf0bc996",
+    "url": "/Natural-User-Interface-WebApplication/static/js/main.0e1382fc.chunk.js"
   },
   {
     "revision": "6965ae7a929a0f9fdb07",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52bee32fccf918cf15ebc772943677a3",
     "url": "/Natural-User-Interface-WebApplication/static/media/HROlogo.52bee32f.png"
+  },
+  {
+    "revision": "da46cacfc2d9deb3c76f53e6c75ff3b6",
+    "url": "/Natural-User-Interface-WebApplication/static/media/brain.da46cacf.png"
+  },
+  {
+    "revision": "1367bc38a03432eb598b893c19dc945a",
+    "url": "/Natural-User-Interface-WebApplication/static/media/goal.1367bc38.png"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
@@ -50,5 +58,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b224d3431b5810ec31ac1fd2a711e22",
     "url": "/Natural-User-Interface-WebApplication/static/media/research.8b224d34.jpeg"
+  },
+  {
+    "revision": "0ccecc27a3abec6d8850bf623a25cf4d",
+    "url": "/Natural-User-Interface-WebApplication/static/media/touch.0ccecc27.png"
   }
 ]);

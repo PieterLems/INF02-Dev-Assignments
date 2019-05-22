@@ -287,7 +287,7 @@ class Nuis extends React.Component {
                       />
                             <CardTitle tag="h3">NUI: Touch</CardTitle>
                             <p>
-                            Sed ac viverra augue. Etiam sem ante, rhoncus sed lacus eu, sagittis aliquam sapien. Vivamus quis libero eros. Phasellus a commodo urna, id tincidunt massa. Morbi malesuada lectus orci, at condimentum massa congue sed. Suspendisse imperdiet odio metus, a porta purus ullamcorper non. Nulla sit amet turpis vitae turpis accumsan aliquet ac non purus. Fusce accumsan venenatis metus sed pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam lacinia justo metus, id sodales mauris lacinia vel. Donec semper tincidunt libero eu tincidunt. Nam non maximus arcu. Donec feugiat tempor neque, eget bibendum erat volutpat id.
+                           
                             </p>
                           </CardHeader>
                           <div
@@ -307,7 +307,7 @@ class Nuis extends React.Component {
                                   data-toggle="collapse"
                                   onClick={e => this.collapsesToggle(e, "collapseOne")}
                                 >
-                                  History{" "}
+                                  Verleden van de NUI{" "}
                                   <i className="tim-icons icon-minimal-down" />
                                 </a>
                               </CardHeader>
@@ -318,8 +318,11 @@ class Nuis extends React.Component {
                                 )}
                               >
                                 <CardBody>
-                                  
-                                Sed tempor lorem neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc molestie, diam eu hendrerit laoreet, nibh ante luctus massa, ut consequat lacus neque sed sapien. Nullam facilisis tincidunt ex et condimentum. Suspendisse porttitor urna lectus, vel tristique elit gravida sit amet. Vestibulum luctus semper vehicula. Donec porta eget tellus sed semper. Fusce sit amet risus sapien. Sed a fringilla felis, eu cursus arcu. Praesent ac lorem leo. Fusce at libero lorem. Pellentesque commodo quam et lorem fringilla, nec varius justo pulvinar. Mauris quis justo ligula. Sed tincidunt neque ut malesuada consequat. Suspendisse dapibus condimentum scelerisque. Phasellus vehicula felis enim, non fermentum odio lobortis quis.
+                                <h4>Hoe werkt de NUI?</h4>
+                                <p>blablabla</p>
+                                <h4>Waarom is de desbetreffende NUI instinctief?</h4>
+                                <p>blablabla</p>
+                               
                       </CardBody>
                               </Collapse>
                             </Card>
@@ -334,7 +337,7 @@ class Nuis extends React.Component {
                                   data-toggle="collapse"
                                   onClick={e => this.collapsesToggle(e, "collapseTwo")}
                                 >
-                                  How does this NUI work?{" "}
+                                  Heden van de NUI{" "}
                                   <i className="tim-icons icon-minimal-down" />
                                 </a>
                               </CardHeader>
@@ -345,7 +348,8 @@ class Nuis extends React.Component {
                                 )}
                               >
                                 <CardBody>
-                                Sed ac viverra augue. Etiam sem ante, rhoncus sed lacus eu, sagittis aliquam sapien. Vivamus quis libero eros. Phasellus a commodo urna, id tincidunt massa. Morbi malesuada lectus orci, at condimentum massa congue sed. Suspendisse imperdiet odio metus, a porta purus ullamcorper non. Nulla sit amet turpis vitae turpis accumsan aliquet ac non purus. Fusce accumsan venenatis metus sed pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam lacinia justo metus, id sodales mauris lacinia vel. Donec semper tincidunt libero eu tincidunt. Nam non maximus arcu. Donec feugiat tempor neque, eget bibendum erat volutpat id.
+                                <h4>Hoe werkt de NUI?</h4>
+                                <p>blablabla</p>
                       </CardBody>
                               </Collapse>
                             </Card>
@@ -360,7 +364,7 @@ class Nuis extends React.Component {
                                   data-toggle="collapse"
                                   onClick={e => this.collapsesToggle(e, "collapseThree")}
                                 >
-                                  Why is this NUI instinctive?{" "}
+                                  Toekomst van de NUI{" "}
                                   <i className="tim-icons icon-minimal-down" />
                                 </a>
                               </CardHeader>
@@ -371,7 +375,8 @@ class Nuis extends React.Component {
                                 )}
                               >
                                 <CardBody>
-                                Sed ac viverra augue. Etiam sem ante, rhoncus sed lacus eu, sagittis aliquam sapien. Vivamus quis libero eros. Phasellus a commodo urna, id tincidunt massa. Morbi malesuada lectus orci, at condimentum massa congue sed. Suspendisse imperdiet odio metus, a porta purus ullamcorper non. Nulla sit amet turpis vitae turpis accumsan aliquet ac non purus. Fusce accumsan venenatis metus sed pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam lacinia justo metus, id sodales mauris lacinia vel. Donec semper tincidunt libero eu tincidunt. Nam non maximus arcu. Donec feugiat tempor neque, eget bibendum erat volutpat id.
+                                <h4>Hoe werkt de NUI?</h4>
+                                <p>blablabla</p>
                       </CardBody>
                               </Collapse>
                             </Card>
