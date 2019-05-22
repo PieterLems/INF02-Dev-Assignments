@@ -36,4 +36,31 @@
     background-color: $transparent-bg;
     float: right;
   }
+  .nui-indicator-speech{
+    width: 274px;
+    height: 224px;
+    padding-left: 20px;
+    border: 5px solid lighten($black, 5%);
+    background-color: $transparent-bg;
+    float: right;
+  }
+
+  .nui-indicator-gesture{
+    width: 254px;
+    height: 224px;
+    padding-left: 20px;
+    border: 5px solid lighten($black, 5%);
+    background-color: $transparent-bg;
+    float: right;
+  }
+
+  .nui-indicator-gaze{
+    width: 254px;
+    height: 224px;
+    padding-left: 20px;
+    border: 5px solid lighten($black, 5%);
+    background-color: $transparent-bg;
+    float: right;
+  }
+
 
