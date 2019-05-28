@@ -119,12 +119,10 @@ class Dashboard extends React.Component {
                 />
                 <h3 className="mt-3">Het doel van het project</h3>
                 <p>
-                  Het doel van dit onderzoek is om derdejaars informatica
-                  studenten een overzicht te geven van de huidige technische
-                  stand van zaken en gebruiksvriendelijkheid van de natural user
-                  interfaces speech, voice, gesture, gaze control en brain
-                  control, in 2018 om zodoende een vergelijking te kunnen maken
-                  met de opkomende technologieën in 2019.
+                  Het doel van dit onderzoek is om een breedere visie te krijgen op het gebied
+                  van de natural user interfaces gaze, brain, touch, speech en gesture. Ook is het doel om ons bewust te maken van de gebruiksvriendelijkheid die NUI's met zich meebrengen. Daarnaast is het ook de bedoeling dat wij als informatica studenten
+                  informatie opdoen over de technologieën die wij later tot onze beschikking hebben. Aan de hand van de desbetreffende
+                  informatie krijgen we een beeld van hoe de technologieën er in de toekomst uit komen te zien.
                 </p>
               </Col>
             </Row>

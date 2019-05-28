@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28342932dc77ce7672d2cc50476973c6",
+    "revision": "4319761807d4b429465a01047f64e5de",
     "url": "/Natural-User-Interface-WebApplication/index.html"
   },
   {
-    "revision": "69dbbf1f1dfe44b54701",
+    "revision": "4ab8c9f86710c9495c18",
     "url": "/Natural-User-Interface-WebApplication/static/css/2.9e63dcda.chunk.css"
   },
   {
-    "revision": "6ea90d7eecc970b7b597",
-    "url": "/Natural-User-Interface-WebApplication/static/css/main.96b8f3b4.chunk.css"
+    "revision": "baf50d4b1445f3c1ffe0",
+    "url": "/Natural-User-Interface-WebApplication/static/css/main.85886a29.chunk.css"
   },
   {
-    "revision": "69dbbf1f1dfe44b54701",
-    "url": "/Natural-User-Interface-WebApplication/static/js/2.14e18798.chunk.js"
+    "revision": "4ab8c9f86710c9495c18",
+    "url": "/Natural-User-Interface-WebApplication/static/js/2.de5a36f4.chunk.js"
   },
   {
-    "revision": "6ea90d7eecc970b7b597",
-    "url": "/Natural-User-Interface-WebApplication/static/js/main.b0340608.chunk.js"
+    "revision": "baf50d4b1445f3c1ffe0",
+    "url": "/Natural-User-Interface-WebApplication/static/js/main.a08c4dce.chunk.js"
   },
   {
     "revision": "6965ae7a929a0f9fdb07",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da46cacfc2d9deb3c76f53e6c75ff3b6",
     "url": "/Natural-User-Interface-WebApplication/static/media/brain.da46cacf.png"
+  },
+  {
+    "revision": "dfc44752ee1cd6be248a6ccb6c1aa3d0",
+    "url": "/Natural-User-Interface-WebApplication/static/media/gaze.dfc44752.png"
+  },
+  {
+    "revision": "aabe5c86e622c4c4f26e1f59fabe1200",
+    "url": "/Natural-User-Interface-WebApplication/static/media/gesture.aabe5c86.png"
   },
   {
     "revision": "1367bc38a03432eb598b893c19dc945a",
@@ -58,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b224d3431b5810ec31ac1fd2a711e22",
     "url": "/Natural-User-Interface-WebApplication/static/media/research.8b224d34.jpeg"
+  },
+  {
+    "revision": "f9e279735ddef7387f6c38b5e8413c84",
+    "url": "/Natural-User-Interface-WebApplication/static/media/speech1.f9e27973.png"
   },
   {
     "revision": "0ccecc27a3abec6d8850bf623a25cf4d",
