@@ -117,10 +117,10 @@ class Dashboard extends React.Component {
                   className="intro-img"
                   src={require("assets/img/goal.png")}
                 />
-                <h3 className="mt-3">Het doel van het project</h3>
+                <h3 className="mt-3">Het doel van het onderzoek</h3>
                 <p>
-                  Het doel van dit onderzoek is om een breedere visie te krijgen op het gebied
-                  van de natural user interfaces gaze, brain, touch, speech en gesture. Ook is het doel om ons bewust te maken van de gebruiksvriendelijkheid die NUI's met zich meebrengen. Daarnaast is het ook de bedoeling dat wij als informatica studenten
+                  Het doel van dit onderzoek is om een bredere visie te krijgen op het gebied
+                  van de natural user interfaces gaze, brain, touch, speech en gesture. Ook is het doel om ons, als informatica studenten, bewust te maken van de gebruiksvriendelijkheid die NUI's met zich meebrengen. Daarnaast is het ook de bedoeling dat wij als informatica studenten
                   informatie opdoen over de technologieën die wij later tot onze beschikking hebben. Aan de hand van de desbetreffende
                   informatie krijgen we een beeld van hoe de technologieën er in de toekomst uit komen te zien.
                 </p>
