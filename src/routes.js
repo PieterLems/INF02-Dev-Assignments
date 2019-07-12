@@ -3,10 +3,9 @@ import Research from "views/Research.jsx";
 import Nuis from "views/NUIs.jsx";
 import Conclusion from "views/Conclusion.jsx";
 import Sources from "views/Sources.jsx";
+import Video from "views/Video.jsx";
 
-
-const routes = [
-  {
+const routes = [{
     path: "/home",
     name: "Home",
     rtlName: "لوحة القيادة",
@@ -44,6 +43,14 @@ const routes = [
     rtlName: "لوحة القيادة",
     icon: "tim-icons icon-single-copy-04",
     component: Sources,
+    layout: "/NUI"
+  },
+  {
+    path: "/video",
+    name: "Video",
+    rtlName: "لوحة القيادة",
+    icon: "tim-icons icon-single-copy-04",
+    component: Video,
     layout: "/NUI"
   },
 ];

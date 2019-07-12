@@ -436,7 +436,8 @@ class Nuis extends React.Component {
                                     deze UI word ondertussen als relatief normaal
                                     gezien en wordt gebruik in veel verschillende vakgebieden.
                                   </p>
-                                  <p>Waar een persoon naar kijk ligt in verband met de gedachte van een persoon  (Just & Carpenter, 1976). Aan de hand van deze  “oog-geest” -hypothese kan veel informatie worden opgedaan over de interessegebieden van de desbetreffende persoon. Deze informatie kan worden gebruikt om UI’s te optimaliseren met interface-elementen die aantrekkelijk zijn voor de gebruiker. Dit is een goed voorbeeld van hoe de informatie die voortkomt uit eye tracking bruikbaar kan zijn in het optimaliseren van een UI (Goldberg &Kotval, 1999). </p>
+                                  <p>Waar een persoon naar kijk ligt in verband met de gedachte van een persoon  (Just & Carpenter, 1976). Aan de hand van deze  “oog-geest” -hypothese kan veel informatie worden opgedaan over de interessegebieden van de desbetreffende persoon. Deze informatie kan worden gebruikt om UI’s te optimaliseren met interface-elementen die aantrekkelijk zijn voor de gebruiker (Goldberg &Kotval, 1999). Een goed voorbeeld van hoe de informatie die voortkomt uit eye tracking bruikbaar kan zijn in het optimaliseren van een UI is een medische applicatie waar gebruikers aan de hand van een UI bepaalde taken moesten verichten. In dit voorbeeld vond de gebruiker geen knop om de hartslaggegevens weer te geven. In dit geval  konden onderzoekers de interessegebieden, waar de desbetreffende gebruiker zich op fixeerde, gebruiken om de knop te plaatsen en toegankelijker te maken voor de gebruiker (McGrath,2018).
+ </p>
                                   <p className="mt-3">Figuur 5, "Eye-mind -hypothese".</p>
                                     <img
                               alt="..."
@@ -448,7 +449,7 @@ class Nuis extends React.Component {
                                     De meest bekende manier waarop de eye/gaze NUI
                                     word toegepast is bij virtual reality gaming.
                                     De VR bril bevat sensoren die de
-                                    oogbewegingen opvangen, Daarnaast wordt er
+                                    oogbewegingen opvangen. Die sensoren zetten de verkegen data om in bruikbare data voor het systeem en aan de hand van die informatie kan het systeem bepalen waar de gebruiker op dat moment naar kijkt. Dit in combinatie met de gesture UI zorgt ervoor dat er geen gebruik meer hoeft te worden gemaakt van een muis en toetsenbord. Daarnaast wordt er
                                     ook gebruik gemaakt van de hoofdbewegingen
                                     om er voor te zorgen dat het systeem nog
                                     accurater is.
@@ -482,7 +483,7 @@ class Nuis extends React.Component {
                                     verantwoordelijk voor ontwikkelingen binnen
                                     defensie, is op dit moment bezig met een
                                     wapen systeem dat gebruik maakt van de
-                                    oogbewegingen van een militair.
+                                    oogbewegingen van een militair. Door middel van dit wapen systeem zal het makkelijker worden voor de militair om op zijn of haar doel te schieten.
                                   </p>
                                 </CardBody>
                               </Collapse>

@@ -24,6 +24,7 @@ class Sources extends React.Component {
                   <li>Farhnsworth, B. (2019, February 18). How Eye Tracking Technology Is Changing The World [5 Examples]. Retrieved May 14, 2019, from https://imotions.com/blog/future-eye-tracking-technology/</li>
                   <li>Jacob, R. (1990, May 1). Eye movment based interaction techniques. Retrieved May 11, 2019, from http://www.cs.tufts.edu/~jacob/papers/chi90.pdf</li>
                   <li>Karn, K. (2013, January 1). Eye_Tracking_in_Human-Computer_Interaction_and_Usability_Research_Ready_to_Deliver_the_Promises/links/5b6c741892851ca65053ce Eye Tracking in Human Computer Interaction and Usability Research Ready to Deliver the Promise. Retrieved June 1, 2019, from https://www.researchgate.net/profile/Keith_Karn/publication/259703630_Eye_Tracking_in_Human-Computer_Interaction_and_Usability_Research_Ready_to_Deliver_the_Promises/links/5b6c741892851ca65053ce41/Eye-Tracking-in-Human-Computer-Interaction-and-Usability-Research-Ready-to-Deliver-the-Promises.pdf</li>
+                  <li>McGrath, L. S. (2018, May 13). Eye Tracking For Better User Interfaces. Retrieved June 3, 2019, from https://www.meddeviceonline.com/doc/eye-tracking-for-better-user-interfaces-0001</li>
                 </ul>
                 <h4>Brain</h4>
                 <ul>

@@ -141,42 +141,19 @@ class Sidebar extends React.Component {
     if (logo !== undefined) {
       if (logo.outterLink !== undefined) {
         logoImg = (
-          <a
-            href={logo.outterLink}
-            className="simple-text logo-mini"
-            target="_blank"
-            onClick={this.props.closeSidebar}
-          >
-            <div className="logo-img">
-              <img src={logo.imgSrc} alt="react-logo" />
-            </div>
-          </a>
-        );
-        logoText = (
-          <a
-            href={logo.outterLink}
-            className="simple-text logo-normal"
-            target="_blank"
-            onClick={this.props.closeSidebar}
-          >
-            {logo.text}
-          </a>
-        );
-      } else {
-        logoImg = (
           <NavLink
-            to={logo.innerLink}
+            to='/NUI/home'
             className="simple-text logo-mini"
             onClick={this.props.closeSidebar}
           >
             <div className="logo-img">
-              <img src={logo.imgSrc} alt="react-logo" />
+              <img alt="..." src={require("assets/img/react-logo.png")} />
             </div>
           </NavLink>
         );
         logoText = (
           <NavLink
-            to={logo.innerLink}
+            to='/NUI/home'
             className="simple-text logo-normal"
             onClick={this.props.closeSidebar}
           >
